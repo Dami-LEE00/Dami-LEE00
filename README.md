@@ -1,5 +1,7 @@
+<h2>🙋🏻‍♀️ damii's github</h1>
 
 <h4>📧 contact</h4>
+<a href="mailto:﻿"dxmxxii@gmail.com">dxmxxii@gmail.com</a>
 
 <h4>🖥️ status</h4>
 
