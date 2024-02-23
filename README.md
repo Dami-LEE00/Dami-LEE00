@@ -3,4 +3,4 @@
 
 <h4>🖥️ status</h4>
 
-![Dami-LEE00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-LEE00&show_icons=true&theme=tokyonight)
+![Dami-LEE00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-LEE00&show_icons=true&theme=shadow_blue)
