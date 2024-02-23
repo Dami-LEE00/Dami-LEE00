@@ -1,8 +1,10 @@
 <h2>🙋🏻‍♀️ damii's github</h1>
 
-<h4>📧 contact</h4>
-<a href="mailto:﻿"dxmxxii@gmail.com">dxmxxii@gmail.com</a>
+<h3>📌 info</h3>
+mail | <a href="mailto:﻿"dxmxxii@gmail.com">dxmxxii@gmail.com</a>
+<br />
+blog | <a href="https://velog.io/@ecch74/posts">damii's velog</a>
 
-<h4>🖥️ status</h4>
+<h3>🖥️ status</h3>
 
 ![Dami-LEE00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-LEE00&show_icons=true&theme=shadow_blue)
