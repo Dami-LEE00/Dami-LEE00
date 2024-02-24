@@ -7,4 +7,4 @@ blog | <a href="https://velog.io/@ecch74/posts">damii's velog</a>
 
 <h3>🖥️ status</h3>
 
-![Dami-LEE00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-LEE00&show_icons=true&theme=shadow_blue)
+![Dami-LEE00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-LEE00&show_icons=true&theme=holi)
