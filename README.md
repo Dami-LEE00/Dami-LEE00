@@ -3,7 +3,7 @@
 <h3>📌 info</h3>
 mail | <a href="mailto:﻿"dxmxxii@gmail.com">dxmxxii@gmail.com</a>
 <br />
-blog | <a href="https://velog.io/@ecch74/posts">damii's velog</a>
+blog | <a href="https://velog.io/@ecch74/posts" target="_blank">damii's velog</a>
 
 <h3>📚 stacks</h3>
 <p>
