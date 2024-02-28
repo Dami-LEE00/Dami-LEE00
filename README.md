@@ -12,6 +12,7 @@ blog | <a href="https://velog.io/@ecch74/posts">damii's velog</a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Emotion-F669B4?style=flat-square&logo=Emotion&logoColor=white"/></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp -->
   <br>
