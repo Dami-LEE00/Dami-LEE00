@@ -1,11 +1,11 @@
 <h2>🙋🏻‍♀️ damii's github</h1>
 
-<h3>📌 info</h3>
+<h3>📌 Info</h3>
 mail | <a href="mailto:﻿"dxmxxii@gmail.com">dxmxxii@gmail.com</a>
 <br />
 blog | <a href="https://velog.io/@ecch74/posts">damii's dev blog</a>
 
-<h3>📚 stacks</h3>
+<h3>📚 Stacks</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
